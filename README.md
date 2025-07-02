@@ -1,66 +1,85 @@
-<h1 align="center">Hi 👋, I'm Tharunika</h1>
-<h3 align="center">💻 Engineering student passionate about Web Designing</h3>
+# 👋 Hey there, I'm Tharunika
+
+🎓 Engineering Student | 💻 Web Design Enthusiast | 🌱 Lifelong Learner
 
 ---
 
-🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/tharunika-elangovan" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tharunika Elangovan" />
-  </a>
-  <a href="https://leetcode.com/tharu_38" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+## 💫 About Me:
+- 👩‍💻 Passionate about creating beautiful, responsive websites.
+- 🌱 Currently exploring **PHP**, **Backend Development**, and sharpening my **DSA** skills.
+- 🧠 Love building user-friendly UIs with **HTML/CSS/JavaScript**.
+- 📚 Learning new tech daily & solving challenges on **LeetCode**!
+- 🎯 Goal: Become a **full-stack developer** and contribute to open-source.
 
 ---
 
- 🛠️ Languages & Tools:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharunika-elangovan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/tharu_38)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharu32111)
 
 ---
 
+## 🛠️ Tech Stack:
 
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 📈 GitHub Stats (Optional):
-<!-- Replace "your-username" with your GitHub username if you want -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & DB:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Tools:**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🎯 Fun Fact:
-> I enjoy creating aesthetic and user-friendly web designs and love learning new technologies!
+## 📈 GitHub Stats:
+![Tharunika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharu32111&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tharu32111&theme=default&hide_border=true)
 
 ---
 
-### 🧠 Currently Exploring:
-- Responsive Web Design  
-- Backend Technologies (like PHP & Java)  
-- Competitive Programming on LeetCode
+## 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tharu32111&theme=flat&no-frame=true&margin-w=10)
 
 ---
 
+## 🚀 Projects:
+- 🖥️ Coming soon: Portfolio Website showcasing my design and dev work
+- 📊 Academic mini-projects in Web Development
+- 💡 Always building, always learning!
+
+---
+
+## 🎯 Fun Fact:
+> I enjoy designing interfaces almost as much as I love debugging 😄
+
+---
+
+## 📚 Currently Learning:
+- Backend development with PHP  
+- Java for full-stack applications  
+- Solving algorithm challenges daily
+
+---
+
+## 👀 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=Tharu32111&style=flat-square&color=blue)
+
+---
+
+## 🐍 Contribution Snake:
+![snake gif](https://raw.githubusercontent.com/Tharu32111/Tharu32111/output/github-contribution-grid-snake.svg)
+
+---

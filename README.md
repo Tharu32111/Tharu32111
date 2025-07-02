@@ -74,12 +74,6 @@
 
 ---
 
-## 👀 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=Tharu32111&style=flat-square&color=blue)
 
----
 
-## 🐍 Contribution Snake:
-![snake gif](https://raw.githubusercontent.com/Tharu32111/Tharu32111/output/github-contribution-grid-snake.svg)
 
----

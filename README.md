@@ -50,11 +50,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tharu32111&theme=flat&no-frame=true&margin-w=10)
-
----
-
 ## 🚀 Projects:
 - 🖥️ Coming soon: Portfolio Website showcasing my design and dev work
 - 📊 Academic mini-projects in Web Development

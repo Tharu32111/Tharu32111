@@ -43,9 +43,11 @@
 ---
 
 
- 📈 GitHub Stats:
+
+### 📈 GitHub Stats (Optional):
+<!-- Replace "your-username" with your GitHub username if you want -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharu_38&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---

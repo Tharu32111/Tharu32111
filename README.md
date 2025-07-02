@@ -46,7 +46,7 @@
  📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tharu_38&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-<
+</p>
 
 ---
 
